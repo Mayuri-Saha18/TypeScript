@@ -14,3 +14,10 @@ function sum(a:number,b:number){
     return a+b;
 }
 sum(3,4);
+
+// array
+const names: string[] = [];
+
+names.push("Dylan"); 
+
+console.log(names);
