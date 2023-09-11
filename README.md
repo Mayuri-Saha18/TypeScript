@@ -30,6 +30,7 @@ undefined
 any
 Literal Types
 Union Types
+
 2.Functions
 ES5 Function
 Arrow function
