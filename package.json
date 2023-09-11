@@ -1,0 +1,25 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"tsc index.ts",
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayuri-Saha18/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayuri-Saha18/TypeScript/issues"
+  },
+  "homepage": "https://github.com/Mayuri-Saha18/TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
