@@ -5,6 +5,11 @@ TypeScript being a "Syntactic Superset" means that it shares the same base synta
 
 Introduction to Typescript: https://www.canva.com/design/DAFRVo6KiiU/Y6terVDplneB3iad36-kJQ/view#1
 
+Installing
+For the latest stable version:
+```typescript
+npm install -D typescript
+```
 tsconfig
 
 ```typescript
