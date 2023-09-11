@@ -21,16 +21,16 @@ tsconfig
 }
 ```
 # Topics
-1.Basic types
-string
-number
-boolean
-null
-undefined
-any
-Literal Types
-Union Types
+1.Basic types: 
+string,
+number,
+boolean,
+null,
+undefined,
+any,
+Literal Types,
+Union Types,
 
-2.Functions
-ES5 Function
+2.Functions: 
+ES5 Function,
 Arrow function
